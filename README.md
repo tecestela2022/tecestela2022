@@ -1,6 +1,8 @@
 Programa  gestion empleados
 
-En esta aplicación, se han creado tres clases: Empleado, Desarrollador y Diseñador. La clase Empleado es la clase base que contiene los atributos nombre y sueldo, así como los métodos para obtener el nombre y el sueldo del empleado, y para calcular el salario neto (sueldo después de aplicar descuentos).
+En esta aplicación, se han creado tres clases: Empleado, Desarrollador y Diseñador. 
+
+La clase Empleado es la clase base que contiene los atributos nombre y sueldo, así como los métodos para obtener el nombre y el sueldo del empleado, y para calcular el salario neto (sueldo después de aplicar descuentos).
 
 La clase Desarrollador extiende la clase Empleado y sobrescribe el método calcularSalarioNeto para retornar el sueldo sin aplicar ningún descuento.
 
